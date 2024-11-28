@@ -1,7 +1,7 @@
 from DataStructures.Graph import adj_list_graph as gl
 from DataStructures.Graph import prim as prim
 from DataStructures.Graph import edge as ed
-from DataStructures.Map import map_linear_probing as map
+from DataStructures.Map import map_linear_probin as map
 from DataStructures.Stack import stack as st
 from DataStructures.Queue import queue as qu
 from DataStructures.Priority_queue import index_priority_queue as pq

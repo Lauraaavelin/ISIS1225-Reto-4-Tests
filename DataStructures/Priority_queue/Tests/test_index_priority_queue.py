@@ -1,5 +1,5 @@
 from DataStructures.Priority_queue import index_priority_queue as pq
-from DataStructures.Map import map_linear_probing as mp
+from DataStructures.Map import map_linear_probin as mp
 from DataStructures.List import array_list as lt
 
 

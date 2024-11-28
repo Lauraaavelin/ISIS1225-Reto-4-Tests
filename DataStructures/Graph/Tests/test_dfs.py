@@ -1,6 +1,6 @@
 from DataStructures.Graph import dfs as dfs
 from DataStructures.Graph import adj_list_graph as g
-from DataStructures.Map import map_linear_probing as map
+from DataStructures.Map import map_linear_probin as map
 from DataStructures.Stack import stack as stk
 from DataStructures.Utils.utils import handle_not_implemented
 
